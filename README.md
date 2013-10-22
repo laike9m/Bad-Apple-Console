@@ -30,5 +30,5 @@ If you want a higher-pixel version,download
 
 For those who don't know what Bad Apple is,see
 <a href='http://en.wikipedia.org/wiki/Bad_Apple#Reception_and_fanworks'>http://en.wikipedia.org/wiki/Bad_Apple#Reception_and_fanworks</a>
-
+<br />
 <a href='http://www.nicovideo.jp/watch/sm8628149'>http://www.nicovideo.jp/watch/sm8628149</a>
