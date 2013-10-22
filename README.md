@@ -6,7 +6,7 @@
 
 <img src='http://fmn.rrimg.com/fmn063/20130530/2135/original_DrlW_5d930000190d1190.jpg' />
 
-程序是拿MFC写的，可执行版本在BA.7z文件中。`BA.7z`文件同时包含bad apple.mp3，如果想同时听音乐的话请把此mp3和exe放在同一路径下。  
+程序是拿MFC写的，可执行版本在`BA.7z`文件中。`BA.7z`文件同时包含bad apple.mp3，如果想同时听音乐的话请把此mp3和exe放在同一路径下。  
 
 更清晰的版本到<a href='http://rrurl.cn/qP0Q8C'>这里</a>下载   
 
@@ -25,8 +25,10 @@ This is a MFC program to play the famous "Bad Apple" video.Basically,this is an 
 
 The executable and mp3 file are included in `BA.7z`.You should put the mo3 file in the same directory with the exe so that you can hear music.
 
-If you want a higher-pixel version,download <a href='http://rrurl.cn/qP0Q8C'>here</a>
+If you want a higher-pixel version,download 
+<a href='http://rrurl.cn/qP0Q8C'>here</a>
 
 For those who don't know what Bad Apple is,see
 <a href='http://en.wikipedia.org/wiki/Bad_Apple#Reception_and_fanworks'>http://en.wikipedia.org/wiki/Bad_Apple#Reception_and_fanworks</a>
+
 <a href='http://www.nicovideo.jp/watch/sm8628149'>http://www.nicovideo.jp/watch/sm8628149</a>
