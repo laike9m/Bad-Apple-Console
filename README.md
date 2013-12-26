@@ -23,7 +23,7 @@
 
 This is a MFC program to play the famous "Bad Apple" video.Basically,this is an ascii-art work.
 
-The executable and mp3 file are included in `BA.7z`.You should put the mo3 file in the same directory with the exe so that you can hear music.
+The executable and mp3 file are included in `BA.7z`.You should put the mp3 file in the same directory with the exe so that you can hear music.
 
 If you want a higher-pixel version,download 
 <a href='http://rrurl.cn/qP0Q8C'>here</a>
