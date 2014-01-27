@@ -11,7 +11,7 @@
 
 也可以去<a href='http://avh5q4jhvc.l27.yunpan.cn/lk/Q545K4tHwNdBD'>百度网盘</a>下载   
 
-对于不知道Bad Apple是什么的同学，请戳这里<br />
+对于不知道Bad Apple是什么的同学，请戳这里 <br />
 <a href='http://zh.moegirl.org/Bad_Apple'>http://zh.moegirl.org/Bad_Apple</a><br />
 <a href='http://www.nicovideo.jp/watch/sm8628149'>http://www.nicovideo.jp/watch/sm8628149</a>
 
