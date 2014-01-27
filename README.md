@@ -1,14 +1,14 @@
 ## 【ASCII Art】控制台 Bad Apple
 
-<img src='http://fmn.rrimg.com/fmn064/20121010/1700/b_large_j0ze_47470000251f1263.jpg' />
+<img src='http://www.laike9m.com/media/content/BlogPost/images/BA.jpg' />
 
 一个在windows控制台中播放Bad Apple视频的程序，效果如下：
 
-<img src='http://fmn.rrimg.com/fmn063/20130530/2135/original_DrlW_5d930000190d1190.jpg' />
+<img src='http://www.laike9m.com/media/content/BlogPost/images/BA.png' />
 
-程序是拿MFC写的，可执行版本在`BA.7z`文件中。`BA.7z`文件同时包含bad apple.mp3，如果想同时听音乐的话请把此mp3和exe放在同一路径下。  
+程序是拿MFC写的，可执行版本在`BA.zip`文件中。`BA.zip`文件同时包含bad apple.mp3，如果想同时听音乐的话请把此mp3和exe放在同一路径下。  
 
-更清晰的版本到<a href='http://rrurl.cn/qP0Q8C'>这里</a>下载   
+也可以去<a href='http://avh5q4jhvc.l27.yunpan.cn/lk/Q545K4tHwNdBD'>百度网盘</a>下载   
 
 对于不知道Bad Apple是什么的同学，请戳这里<br />
 <a href='http://zh.moegirl.org/Bad_Apple'>http://zh.moegirl.org/Bad_Apple</a><br />
