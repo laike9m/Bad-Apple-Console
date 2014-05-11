@@ -6,8 +6,8 @@
 
 <img src='http://www.laike9m.com/media/content/BlogPost/images/BA.png' />
 
-程序是拿MFC写的，可执行版本在`BA.zip`文件中。`BA.zip`文件同时包含bad apple.mp3，如果想同时听音乐的话请把此mp3和exe放在同一路径下。  
-`BA.zip`<a href="https://github.com/laike9m/Bad-Apple-Console/blob/master/BA.zip">下载链接</a>  
+程序是拿MFC写的，可执行版本在`BA.zip`文件中。  直接下载<a href="https://github.com/laike9m/Bad-Apple-Console/raw/master/BA.zip">BA.zip</a>，解压即可。  
+`BA.zip`文件同时包含bad apple.mp3，如果想同时听音乐的话请把此mp3和exe放在同一路径下  
 
 也可以去<a href='http://avh5q4jhvc.l27.yunpan.cn/lk/Q545K4tHwNdBD'>百度网盘</a>下载   
 
@@ -26,7 +26,7 @@ This is a MFC program to play the famous "Bad Apple" video.Basically,this is an 
 
 The executable and mp3 file are included in `BA.zip`.You should put the mp3 file in the same directory with the exe so that you can hear music.
 
-<a href="https://github.com/laike9m/Bad-Apple-Console/blob/master/BA.zip">download `BA.zip`</a>
+<a href="https://github.com/laike9m/Bad-Apple-Console/raw/master/BA.zip">download `BA.zip`</a>
 
 For those who don't know what Bad Apple is,see
 <a href='http://en.wikipedia.org/wiki/Bad_Apple#Reception_and_fanworks'>http://en.wikipedia.org/wiki/Bad_Apple#Reception_and_fanworks</a>
